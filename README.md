@@ -4,7 +4,7 @@ Are you running a Minecraft server for your mates and would like to automaticall
 ---
 
 ## Installation
-Before installing ensure you have Node.Js installed along with its package manager NVM to ensure it can fully work.
+Before installing ensure you have Node.Js installed along with its package manager NPM to ensure it can fully work.
 
 It's also recommended to use this with screen or another alternative software to ensure the program keeps running.
 It can be installed anywhere and ran from anywhere that your operating system permits.
