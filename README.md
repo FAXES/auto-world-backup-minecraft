@@ -3,6 +3,14 @@ Are you running a Minecraft server for your mates and would like to automaticall
 
 ---
 
+## Installation
+Before installing ensure you have Node.Js installed along with its package manager NVM to ensure it can fully work.
+
+It's also recommended to use this with screen or another alternative software to ensure the program keeps running.
+It can be installed anywhere and ran from anywhere that your operating system permits.
+
+---
+
 ### Changing Backup Period
 By default there's a few options to set the backup to which is in worded format, or a custom timefram can be set.
 
